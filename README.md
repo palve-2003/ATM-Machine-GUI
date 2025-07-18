@@ -97,3 +97,27 @@ See the [`LICENSE`](LICENSE) file for details.
 📧 [palvenileshp@gmail.com](mailto:palvenileshp@gmail.com)
 
 ---
+
+## 🖼️ GUI Screenshots
+
+### 🔐 Login Page
+![Login Page](Login%20Page%20.png)
+
+### 🏠 Main Menu
+![Main Page](Main%20Page%20.png)
+
+### 💵 Deposit Window
+![Deposit](Deposit.png)
+
+### 💸 Fund Transfer
+![Fund Transfer](Fund%20Transfer%20.png)
+
+### ✅ Transfer Success
+![Transfer Success](Fund%20Transfer%20Success%20.png)
+
+### 📃 Mini Statement
+![Mini Statement](Ministatement.png)
+
+### 🚪 Exit Screen
+![Exit](Exit%20.png)
+
