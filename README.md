@@ -98,26 +98,27 @@ See the [`LICENSE`](LICENSE) file for details.
 
 ---
 
-## 🖼️ GUI Screenshots
+## 🖼️ Screenshots
 
 ### 🔐 Login Page
-![Login Page](Login%20Page%20.png)
+![Login Page](images/login-page.png)
 
-### 🏠 Main Menu
-![Main Page](Main%20Page%20.png)
+### 💰 Deposit Page
+![Deposit Page](images/deposit.png)
 
-### 💵 Deposit Window
-![Deposit](Deposit.png)
-
-### 💸 Fund Transfer
-![Fund Transfer](Fund%20Transfer%20.png)
+### 💸 Fund Transfer Page
+![Fund Transfer](images/fund-transfer.png)
 
 ### ✅ Transfer Success
-![Transfer Success](Fund%20Transfer%20Success%20.png)
+![Transfer Success](images/fund-transfer-success.png)
 
-### 📃 Mini Statement
-![Mini Statement](Ministatement.png)
+### 📋 Mini Statement
+![Mini Statement](images/mini-statement.png)
 
-### 🚪 Exit Screen
-![Exit](Exit%20.png)
+### 🏠 Main Menu
+![Main Page](images/main-page.png)
+
+### 🚪 Exit Page
+![Exit Page](images/exit.png)
+
 
