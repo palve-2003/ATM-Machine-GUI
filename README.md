@@ -85,6 +85,11 @@ This project is licensed under the **MIT License**.
 See the [`LICENSE`](LICENSE) file for details.
 
 ---
+## 📥 Download
+
+➡️ [Download ATM GUI `.jar` file](https://github.com/palve-2003/ATM-Machine-GUI/releases)
+
+---
 
 ## 🙋‍♂️ Author
 
